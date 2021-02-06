@@ -1,0 +1,65 @@
+body{
+    /* background-color: rgba(31, 83, 143, 0.493); */
+    background: rgb(180,178,34);
+background: linear-gradient(351deg, rgb(47, 47, 70) 0%, rgb(63, 102, 89) 100%);
+/* background-repeat: no-repeat; */
+background-position: 50% 0;
+/* background-size: cover; */
+
+
+  
+}
+
+.wrapper{
+    max-width: 850px;
+    margin: 15px auto 25px auto;
+    background-color: #fff;
+    
+}
+
+.wrapper img{
+    width: 100%;
+}
+
+.top i{
+    font-size: 300%;
+}
+
+.sendmail{
+    font-size: 300%;
+}
+
+.item1{
+    background-color: rgb(141, 150, 132);
+    width: 48%;
+    display: inline-block;
+    opacity: 0.5;
+}
+
+.item2{
+    background-color: rgb(73, 110, 92);
+    width: 48%;
+    display: inline-block;
+    opacity: 0.5;
+}
+
+.itemg2{
+    padding: 50px 15px;
+    background-image: url("http://img1.reactor.cc/pics/post/full/%D0%98%D0%B3%D1%80%D1%8B-%D0%B4%D0%B8%D1%81%D0%BA%D0%B0%D1%81%D1%81-%D1%82%D0%B0%D0%B9%D0%BC-Arkham-City-%D0%BF%D0%B5%D1%81%D0%BE%D1%87%D0%BD%D0%B8%D1%86%D0%B0-637291.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    /* background-position: 0 80%; */
+}
+
+.itemg3{
+    font-family: 'Batman Forever Alternate Cyr', sans-serif;
+}
+
+.itemg1{
+    font-family: 'Impact', sans-serif;
+}   
+
+.itemg4{
+    font-family: 'Impact', sans-serif;
+}   
